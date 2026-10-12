@@ -20,5 +20,5 @@
 ---
 
 ## 📨 Как со мной связаться
-* 📧 **Email:** [artempuzyrev65904@gmail.com](mailto:artempuzyrev65904@gmail.com)
+* 📧 **Email:** [artempuzyrev65904@gmail.com]
 
